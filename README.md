@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adenisthebestaslan
+- 👋 Hi, I’m the Mangar Desinger
 - 👀 I’m interested in ptyhon
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on open source projects like my random contacts
